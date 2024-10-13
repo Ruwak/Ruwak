@@ -1,0 +1,64 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    background-color: #005124;  ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    font-weight: 700;
+    
+
+}
+
+body{
+
+color: white;
+text-align: center;
+
+}
+
+h1{
+
+    color:goldenrod;
+
+
+}
+
+p{
+
+    margin: .5rem;
+
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    color: #003b1b;
+    background: goldenrod;
+    padding: .4rem 2rem;
+    border: none;
+    border-radius: 2px;
+    margin: 1rem .2rem;
+}
+
+
+button:hover{
+
+    background: #daa520cd;
+    cursor: pointer;
+
+}
+
+#playerName{
+
+width: 10rem;
+height: 2rem;
+text-align: center;
+font-style: none;
+color: #fff;
+font-size: large;
+border-style: ridge;
+border-radius: 5px;
+
+}
